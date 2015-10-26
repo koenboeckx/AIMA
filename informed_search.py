@@ -64,7 +64,7 @@ sld_heuristic = {	arad:		366,
 					hirsova:	151}
 
 class Node:
-	"Container class for element of search tree."
+	"Container class for elements of search tree."
 	def __init__(self, state, parent, cost):
 		self.state = state
 		self.parent = parent
