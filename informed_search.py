@@ -20,7 +20,7 @@ urziceni = 'Urziceni'
 giurgiu = 'Giurgiu'
 eforie = 'Eforie'
 hirsova = 'Hirsova'
-
+ 
 romania = {	arad:		[(zerind, 75), (sibiu, 140), (timisoara, 118)],
 			oradea:		[(zerind, 71), (sibiu, 151)],
 			zerind:		[(arad, 75), (oradea, 71)],
